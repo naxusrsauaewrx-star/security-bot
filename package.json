@@ -1,0 +1,18 @@
+{
+  "name": "awayg-automod-bot",
+  "version": "1.0.0",
+  "description": "Discord.js v14 AutoMod Bot with GUI Select Menu by AWAYG",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "AWAYG",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.14.0",
+    "dotenv": "^16.3.1"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
